@@ -2,7 +2,7 @@ package coffeemachine.core.adapter;
 
 import coffeemachine.core.DrinkCommand;
 
-public class CoffeeMakerAdapter {
+public class CoffeeMachineAdapter {
 
     public String adaptCommand(DrinkCommand command){
 
